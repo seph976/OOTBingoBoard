@@ -9,8 +9,7 @@ This bingo board has a lot of options which will be explained individually furth
 
 In addition, it is made to be small and simple with visual icons instead of text to better fit streams.
 
-# Updates
-Version: 1.0.0 (Latest)
+# Updates (Version: 1.0.0)
 First release!
 
 # Options
