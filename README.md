@@ -10,6 +10,11 @@ This bingo board has a lot of options which will be explained individually furth
 In addition, it is made to be small and simple with visual icons instead of text to better fit streams.
 
 # Updates
+**1.1.0 (Newest)**
+ - Added more presets! (Missions and Dungeons)
+ - Added more missions.
+ - Fixed some bugs.
+ 
 **1.0.0 (Newest)**
  - First release!
 
