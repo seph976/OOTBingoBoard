@@ -15,7 +15,7 @@ In addition, it is made to be small and simple with visual icons instead of text
  - Added more missions.
  - Fixed some bugs.
  
-**1.0.0 (Newest)**
+**1.0.0**
  - First release!
 
 # Options
